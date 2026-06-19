@@ -5,7 +5,7 @@
 **Author:** Philip Vasquez LLB LLM, Gibraltar barrister  
 **LinkedIn:** https://www.linkedin.com/in/philipvasquez | **X/Twitter:** @philipvasquez  
 **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, share, and adapt with attribution  
-**Version:** 1.3 | June 2026
+**Version:** 1.5 | June 2026
 
 ---
 
@@ -45,69 +45,101 @@ The correct order of precedence when analysing any Gibraltar legal question:
 6. **Received English common law and equity** — as applied by the Riera principle and the English Law (Application) Act 1962
 7. **English case law** — persuasive but not binding
 
-The foundational source of received English law is *Jephson v Riera* [1812–1977 GibLR 4] (Privy Council, 1835): English law as at cession (1704) applies to Gibraltar's civilian population, subject to local modification. The English Law (Application) Act 1962 consolidated reception of the common law and equity.
-
-**Critical point:** The 1962 Act did not make English case law binding. English decisions are highly persuasive starting points, but Gibraltar courts are not bound to follow them. This divergence matters most in constitutional law, civil procedure, and employment.
+**Critical point:** Gibraltar courts are not bound by English case law. English decisions are highly persuasive starting points but the divergence matters most in constitutional law, civil procedure, and employment — all areas where Gibraltar has developed its own jurisprudence.
 
 *Full article: https://www.gibcheck.com/legal/principles/legal-development*
 
 ### Constitutional Law and Fundamental Rights
 
-The GCO 2006 contains a justiciable Bill of Rights (ss.1–18), enforceable before the Supreme Court under s.16 by **Notice of Constitutional Motion**. Gibraltar courts adopt a generous and purposive approach to constitutional interpretation — constitutional provisions are not construed like ordinary statutes.
+The GCO 2006 contains a justiciable Bill of Rights (ss.1–18), enforceable before the Supreme Court under s.16 by **Notice of Constitutional Motion**. Gibraltar courts adopt a generous and purposive approach to constitutional interpretation.
 
-Section 1 is itself a substantive source of rights, including the right to security of the person — absent from the ECHR. Section 7 (private and family life) is among the most frequently litigated. The three-stage proportionality framework governs all derogation analysis: (i) interference with the right? (ii) legitimate aim? (iii) proportionate?
+Section 1 is itself a substantive source of rights, including the right to security of the person — absent from the ECHR. Section 7 (private and family life) is among the most frequently litigated. The three-stage proportionality framework governs all derogation analysis.
 
-Key domestic authorities: *Aidasani* (property rights, s.1(c)); *Alvarado v Secretary of State for Defence* (security of person, s.1; proportionality confirmed at Court of Appeal); *Rodriguez v Minister of Housing* [2009] UKPC 52 (indirect discrimination, s.14 free-standing); *P v HM Attorney-General* [2013–15 Gib LR 165] (same-sex adoption; incompatibility with ss.7 and 14).
+Key domestic authorities: *Aidasani* (property rights, s.1(c)); *Alvarado v Secretary of State for Defence* (proportionality confirmed); *Rodriguez v Minister of Housing* [2009] UKPC 52 (s.14 free-standing); *P v HM Attorney-General* [2013–15 Gib LR 165] (incompatibility with ss.7 and 14).
 
 *Full article: https://www.gibcheck.com/legal/principles/constitutional-law*
 
-### Court Structure
+### Court Structure and the Judiciary
 
-**Magistrates' Court** — all criminal matters commence here; Stipendiary Magistrate is also ex officio Coroner.
+Gibraltar's judicial system is modelled entirely on the English system. Source: Gibraltar Court Service (https://www.gcs.gov.gi/justice-system).
 
-**Supreme Court** — unlimited civil and criminal jurisdiction (s.60(1) GCO 2006); exercises all superior court functions (no separate High Court, Crown Court, or County Court). Chief Justice and three Puisne Judges. Also exercises constitutional jurisdiction (s.16 GCO 2006) and admiralty jurisdiction.
+**Court hierarchy (ascending):**
 
-**Court of Appeal** — not permanently resident; two sitting periods per year; panels drawn mainly from the English Court of Appeal.
+**Magistrates' Court** — all criminal matters commence here. Constituted by the Stipendiary Magistrate or lay Justices of the Peace. The Stipendiary Magistrate also holds the office of **Coroner**. Current Stipendiary Magistrate and Coroner: **Charles Bonfante**.
 
-**Privy Council** — final appeal; decisions bind all Gibraltar courts. BOT decisions (Bermuda, Cayman, BVI) carry strong persuasive authority.
+**Supreme Court** — unlimited civil and criminal jurisdiction (s.60(1) GCO 2006). Exercises all superior court functions (no separate High Court, Crown Court, or County Court). Comprises the Chief Justice and three Puisne Judges. Also exercises constitutional jurisdiction (s.16 GCO 2006) and admiralty jurisdiction (Admiralty Jurisdiction (Gibraltar) Order 1987). The Registrar of the Supreme Court is also the Admiralty Marshal.
 
-**Employment Tribunal** — parallel jurisdiction for employment matters; renamed from Industrial Tribunal on 13 October 2016; decisions appeal to Supreme Court.
+Current judiciary:
+- **Chief Justice:** the Hon. Mr Justice Dudley
+- **Puisne Judges:** Mr Justice Yeats; Mr Justice Restano; Mr Justice Happold
+- **Registrar:** Karl Tonna
 
-**The fused profession:** No split between barristers and solicitors. All ~260 practitioners on the Roll hold full rights of audience at every level. 24 hold KC status. The **LSRA** (https://lsra.gi), established by the Legal Services Act 2017 (in force 30 December 2022), is the independent statutory regulator. Practising without LSRA authorisation is a criminal offence.
+**Court of Appeal** — not permanently resident; convenes for two sitting periods per year; panels drawn mainly from the English Court of Appeal (minimum three judges, odd number). Current members include Sir Nigel Davis, Sir Patrick Elias, Sir Adrian Fulford, and Sir Nicholas Underhill. *Verify the current President of the Court of Appeal against the live GCS page before relying on any named appointment.*
+
+**Privy Council** — final appeal; decisions bind all Gibraltar courts. BOT decisions (Bermuda, Cayman, BVI) carry strong persuasive authority. Appeals as of right for civil matters of £50,000+.
+
+**Employment Tribunal** — parallel jurisdiction for employment matters; renamed from Industrial Tribunal on 13 October 2016; decisions appeal to Supreme Court on points of law only.
+
+**The legal profession:** Gibraltar has approximately 260 lawyers on the Roll, 24 of whom hold King's Counsel status. The profession is fully fused — no split between barristers and solicitors. The **LSRA** (https://lsra.gi), established by the Legal Services Act 2017 (in force 30 December 2022), is the independent statutory regulator. Practising without authorisation is a criminal offence. The chief legal adviser to the Crown is HM **Attorney General** (currently Michael Llamas KC). The **Director of Public Prosecutions**, heading the Office of Criminal Prosecutions and Litigation (OCPL), is Christian Rocca KC.
+
+The Gibraltar Courts Service was created in October 2010, unifying Supreme and Magistrates' Court administration. A new courthouse was completed in May 2012 (four Supreme Courts, two Magistrates' Courts, one Coroner's Court).
+
+**Court fees, forms and practice directions:**
+- Court fees: https://www.gcs.gov.gi/court-fees (seven 2025 PDF schedules)
+- General forms (Supreme Court): https://www.gcs.gov.gi/general-forms/supreme-court
+- General forms (Magistrates' Court): https://www.gcs.gov.gi/general-forms/magistrates-court
+- Circulars to Chambers (practice directions): https://www.gcs.gov.gi/circulars-to-chambers
+- AML/CFT enforcement notices: https://www.gcs.gov.gi/aml-cft
 
 *Full article: https://www.gibcheck.com/legal/principles/court-structure*
 
 ### Civil Litigation and Procedure
 
-Civil procedure is governed by the **Supreme Court Rules 2000 (SCR 2000)** together with the **CPR** of England and Wales, applied under s.38A of the Supreme Court Act 1960. The SCR 2000 governs where it has its own provision; the CPR supplements but does not displace it.
+Civil procedure is governed by the **Supreme Court Rules 2000 (SCR 2000)** together with the **CPR** of England and Wales, applied under s.38A of the Supreme Court Act 1960.
 
 **Key rules that diverge from English practice:**
+- **Service:** Deemed service by post in Gibraltar is **14 days** — confirmed in *Francis v Clifton-Psaila*
+- **Costs:** Costs follow the event under CPR r.44.2 — confirmed in *Gibtelecom Ltd v GRA* [2023/GSC/017]
+- **Post-Jackson reforms:** Not adopted in Gibraltar. Success fees under CFAs require independent analysis.
+- **Cross-border enforcement post-Brexit:** Brussels Regulation framework displaced; pre-2021 authority should not be relied upon
+- **Legal aid:** administered by the Registrar of the Supreme Court under the Legal Aid and Assistance Act 1960. Criminal "legal aid" and civil "legal assistance" apply. Historic financial thresholds (subject to change): income ≤ £5,000/year; capital ≤ £350. Defamation proceedings are excluded. Verify current thresholds with the Supreme Court Registry (277 Main Street).
 
-- **Service:** Deemed service by post in Gibraltar is **14 days** — confirmed in *Francis v Clifton-Psaila*. The English CPR r.6.14 period does not apply.
-- **Costs:** Costs follow the event under CPR r.44.2 as applied in Gibraltar — confirmed in *Gibtelecom Ltd v GRA* [2023/GSC/017]. No blanket protection for public bodies.
-- **Post-Jackson reforms:** Not adopted in Gibraltar. Success fees under CFAs require independent Gibraltar-specific analysis.
-- **Cross-border enforcement post-Brexit:** The Brussels Regulation framework has been displaced. EU enforcement requires fresh jurisdiction-specific analysis.
-- **Timelines:** Full trials typically 1–2 years from commencement. Urgent applications accommodated almost immediately.
+**Judgments database:** searchable at https://www.gcs.gov.gi/judgments — covers Supreme Court and Court of Appeal decisions from 1997, Sentencing Pronouncements from January 2016. The Gibraltar Laws site carries reported judgments back to 1812.
 
 *Full article: https://www.gibcheck.com/legal/principles/civil-litigation*
+
+### Jury Service
+
+Source: Gibraltar Court Service (https://www.gcs.gov.gi/jury-service). Governed by Supreme Court Act ss.19C–22F.
+
+**Eligibility:** aged 18–65 (volunteers aged 65–71 may serve); qualified electors or persons with 5 years' continuous residence in Gibraltar.
+
+**Disqualifications:** persons with a mental disability; persons on bail; persons sentenced to life imprisonment or 5+ years' custody; persons who have served a custodial or suspended sentence within the last 10 years.
+
+**Automatic excusals (s.19G):** ministers of religion; Members of Parliament; practising lawyers and notaries; former judges; serving members of HM Forces.
+
+**Deferral:** once only, at the court's discretion.
+
+**Penalties:** failure to attend without good cause — fine at level 3; serving while disqualified — fine at level 5. Contempt of court for disclosing jury deliberations carries a maximum of 2 years' imprisonment.
+
+### Lasting Powers of Attorney
+
+Source: Gibraltar Court Service (https://www.gcs.gov.gi/lasting-powers-of-attorney).
+
+Gibraltar has a statutory Lasting Power of Attorney (LPA) regime. Two forms of LPA are available: **health and welfare**; and **property and financial affairs**. An LPA Code of Practice, blank templates, and an easy-read guide are published by the GCS. Court fees for LPAs are set out in the LPA fee schedule (one of the seven 2025 fee schedules at https://www.gcs.gov.gi/court-fees).
 
 ### Employment Law
 
 Employment law in Gibraltar is statute-based. The principal instrument is the **Employment Act 1932** (as heavily amended — significant revisions in 2016, 2023 and 2025). Discrimination is governed by the standalone **Equal Opportunities Act 2006** (in force 1 March 2007).
 
-The **Employment Tribunal** (renamed from Industrial Tribunal, 13 October 2016) is the principal forum. No fees are charged to file a claim.
-
 **Key Gibraltar-specific divergences from English employment law:**
-
 - **Collective redundancy threshold:** 5 employees at one establishment within 90 days (vs 20 in England)
 - **No weekly pay cap:** no statutory cap on weekly pay for redundancy calculations; total capped at 52 weeks' pay
-- **Uncapped discrimination awards:** awards under the Equal Opportunities Act 2006 have no ceiling
+- **Uncapped discrimination awards:** Equal Opportunities Act 2006 awards have no ceiling
 - **Unfair dismissal compensation:** Basic Award + Compensatory Award; compensatory award capped at 104 weeks
 - **Ordinary qualifying period:** 52 weeks of continuous employment (Employment Act s.60)
-- **Entitled/non-entitled workers:** work-permit regime; failure to secure a permit carries a £3,000 fixed-penalty notice
-- **Redundancy pay tax exemption:** statutory redundancy payments are normally income-tax exempt in Gibraltar
-
-**Post-Brexit:** EU-derived employment protections continue as retained law. The Employment (Amendment) Act 2025 introduced a comprehensive TUPE-style framework.
+- **Entitled/non-entitled workers:** failure to secure a work permit for a non-entitled worker carries a £3,000 fixed-penalty notice
+- **Redundancy pay tax exemption:** statutory redundancy payments are normally income-tax exempt
 
 **Protected grounds under the Equal Opportunities Act 2006 (s.3):** age; disability; pregnancy or maternity; racial or ethnic origin; religion or belief; sex; sexual orientation; victimisation; gender reassignment. **Nationality is expressly excluded** (s.4(2)).
 
@@ -115,19 +147,42 @@ The **Employment Tribunal** (renamed from Industrial Tribunal, 13 October 2016) 
 
 ### Public Law and Judicial Review
 
-**Judicial review** is brought under **section 17B of the Supreme Court Act 1960**, mirroring English judicial review. Running in parallel is the **constitutional jurisdiction** under section 16 of the GCO 2006, enforceable by Notice of Constitutional Motion.
+**Judicial review** under **section 17B of the Supreme Court Act 1960**, mirroring English judicial review. **Grounds:** illegality; irrationality; procedural impropriety; legitimate expectation; proportionality. **Time limit:** three months; **permission** required.
 
-**Grounds of review** follow the *GCHQ* heads: illegality; irrationality (Wednesbury); and procedural impropriety — supplemented by legitimate expectation and proportionality.
+**Constitutional jurisdiction** under section 16 GCO 2006 (Notice of Constitutional Motion) runs in parallel. **Abuse of process** — per *Marrache v AG* [2013–14 Gib LR 520] — prevents use of constitutional motions to circumvent the JR time limit.
 
-**Time limit and permission:** judicial review must be brought **within three months** of the grounds arising. The court's **permission (leave)** is required.
-
-**The Crown Proceedings Act 1951 (Gibraltar)** governs civil proceedings against the Crown. Section 12 makes the **Attorney-General** the nominal defendant. The proper defendant in proceedings touching the Crown's constitutional functions was considered in *Marrache v Attorney-General and Governor* [2013–14 Gib LR 520].
-
-**Abuse of process:** a constitutional motion under s.16 should not be used to circumvent the JR time limit — per *Marrache* and *Harrikissoon v Attorney-General of Trinidad and Tobago* [1980] AC 265, applied in Gibraltar.
-
-**Leading authorities:** *Ouzaa v Governor* [1999–00 Gib LR 94]; *Wireless Officer v Gibnet* [1999–00 Gib LR 493]; *P v HM AG* [2013–15 Gib LR 165]; *Rodriguez v Minister of Housing* [2009] UKPC 52; *R (Hepta Ltd) v Deputy Chief Minister* (legitimate expectation rejected).
+The **Attorney-General** is the nominal Crown defendant under s.12 Crown Proceedings Act 1951 (Gibraltar). In proceedings touching the Governor's constitutional functions, the Governor may be the correct defendant (per *Marrache*).
 
 *Full article: https://www.gibcheck.com/legal/principles/public-law*
+
+### Gibraltar Companies — Key Compliance Facts
+
+*Sources: Gibraltar Companies House; Income Tax Office. Compiled and verified by company.gi, Gibraltar Company Guides (https://company.gi/guide), May 2026. Verify all figures against current primary sources before relying on them.*
+
+Gibraltar companies are incorporated under the Companies Act 2014. Most compliance obligations run from the **incorporation anniversary** or **accounting year-end**. Key deadlines:
+
+| Obligation | Form | Deadline | Fee | Late penalty (first year) |
+|-----------|------|----------|-----|--------------------------|
+| Annual Return | FAR01 | 30 days from anniversary | £103 | £257.50 → £309 → £360.50 → £412 |
+| Accounts filing | — | 12 months from year-end (10 months for public companies) | £26 | £206.50 (>13 months) → £335 (>24 months) |
+| Tax Return | CT1 | 9 months after month-end of accounting period | Free | By company size (from £100 Micro to £1,500 Large) |
+| Payments on Account | — | 28 February and 30 September (two instalments of 50%) | — | 10% surcharge; further 20% after 90 days |
+| PAYE monthly | — | 15th of each month | — | — |
+| PAYE annual forms | P8/P10/P12 | 31 July (tax year: 1 July – 30 June) | — | — |
+| Director/secretary changes | FDMS01–04 | 14 days | £26 | — |
+| Registered office change | FREG01 | 30 days | £26 | — |
+| UBO update | — | 28 days from any change | — | — |
+
+**Gibraltar company incorporation (DIY):** from £110 (£100 registration fee + £10 capital duty); approximately 3 working days (expedited 24 hours for £200). Five required forms: FINC01 (application), FINC02 (secretary consent), FINC30 (memorandum), FINC40 (articles), FINC23 (compliance statement). Strike-off may begin after 3 years of non-filing (Companies Act 2014, s.411).
+
+**Gibraltar tax rate:** 15% corporation tax (as of 2026, under the Financial Services (Income Tax) Act).
+
+**Ultimate Beneficial Ownership:** Gibraltar has had a public UBO register since 2020 — the first UK Overseas Territory to implement one. Following HM Government press release 111/2026 (23 February 2026), the register is now **free and publicly searchable** at https://ubosearch.egov.gi. The reporting threshold is 25% or more of shares, voting rights, or significant control. Changes must be reported within 28 days.
+
+**Official registers and tools:**
+- Companies House Gibraltar (e-Registry, paid): https://www.companieshouse.gi
+- UBO public search (free): https://ubosearch.egov.gi
+- company.gi compliance tools and form generator (free API, no authentication): https://company.gi/developers
 
 ### Key Legislation Reference
 
@@ -139,13 +194,19 @@ The **Employment Tribunal** (renamed from Industrial Tribunal, 13 October 2016) 
 | Brexit | Gibraltar European Union (Withdrawal) Act 2019 |
 | Employment | Employment Act 1932 (as amended, incl. 2025) |
 | Discrimination | Equal Opportunities Act 2006 |
+| Companies | Companies Act 2014 |
 | Financial services | Financial Services Act 2019 |
-| Gambling | Gambling Act 2005 (substantially amended; new framework April 2026) |
+| Gambling | Gambling Act 2005 (amended; new framework April 2026) |
 | DLT/crypto | Financial Services (DLT Providers) Regulations 2017 |
 | Data protection | Data Protection Act 2004 (broadly GDPR-equivalent) |
 | Legal profession | Legal Services Act 2017 |
 | AML | Proceeds of Crime Act 2015 |
+| UBO | Register of Ultimate Beneficial Owners, Nominators and Appointors Regulations 2017 |
 | Crown proceedings | Crown Proceedings Act 1951 (Gibraltar) |
+| Legal aid | Legal Aid and Assistance Act 1960 |
+| LPA | Lasting Powers of Attorney regime |
+| Coroner | Coroner Act |
+| Jury service | Supreme Court Act ss.19C–22F |
 
 ---
 
@@ -159,7 +220,7 @@ The **Employment Tribunal** (renamed from Industrial Tribunal, 13 October 2016) 
 | **Gibraltar Laws — Judgments** | https://www.gibraltarlaws.gov.gi/judgments |
 | **Search on GibCheck** | https://www.gibcheck.com/search |
 
-Gibraltar's case law is sparse by volume but authoritative in weight. GCS and Gibraltar Laws are distinct sources with different coverage — search both. Adverse civil findings against individuals appear here and nowhere else; no licence register records judgment outcomes.
+Searchable database spanning 1997–2026 (Supreme Court and Court of Appeal). Sentencing Pronouncements from January 2016. The Gibraltar Laws site carries reported judgments back to 1812. GCS and Gibraltar Laws are distinct sources — search both.
 
 ### Legislation and Bills
 
@@ -170,7 +231,7 @@ Gibraltar's case law is sparse by volume but authoritative in weight. GCS and Gi
 | **Search on GibCheck** | https://www.gibcheck.com/search |
 | **Legal reference** | https://www.gibcheck.com/legal/principles |
 
-Version awareness is critical — always check current text before citing. Bills provide advance intelligence on regulatory change before enactment.
+Always check amendment history before citing any provision.
 
 ### Employment Tribunal
 
@@ -178,8 +239,6 @@ Version awareness is critical — always check current text before citing. Bills
 |---|---|
 | **Official source** | https://www.employmenttribunal.gov.gi |
 | **Search on GibCheck** | https://www.gibcheck.com/search |
-
-Public record and frequently overlooked in due diligence — particularly valuable where the employer is a regulated entity or public body.
 
 ### Hansard — Parliamentary Debates
 
@@ -189,8 +248,6 @@ Public record and frequently overlooked in due diligence — particularly valuab
 | **Notice of Questions** | https://www.parliament.gi/proceedings-of-parliament/notice-of-questions |
 | **Search on GibCheck** | https://www.gibcheck.com/search |
 
-Second Reading debates are admissible as an aid to statutory interpretation (*Pepper v Hart* equivalent). Named Questions track ministerial accountability and often surface matters before press releases follow.
-
 ### FSC — Financial Services Commission
 
 | | |
@@ -199,8 +256,6 @@ Second Reading debates are admissible as an aid to statutory interpretation (*Pe
 | **FSC Public Warnings** | https://www.fsc.gi/news/warnings |
 | **Search on GibCheck** | https://www.gibcheck.com/search |
 
-The FSC register is the threshold question for any Gibraltar financial services due diligence. It does not capture enforcement conditions or restrictions — the warnings list must be checked separately. Gibraltar was among the first jurisdictions globally to license DLT businesses (2017 Regulations).
-
 ### Gambling Division
 
 | | |
@@ -208,16 +263,12 @@ The FSC register is the threshold question for any Gibraltar financial services 
 | **Official source** | https://gamblingdivision.gov.gi |
 | **Search on GibCheck** | https://www.gibcheck.com/search |
 
-Licence verification for B2B and B2C operators. The Gambling Commissioner is an AML/CFT supervisory authority. The Gambling Act was substantially amended effective April 2026.
-
 ### OFT — Business Licences
 
 | | |
 |---|---|
 | **Official source** | https://www.oft.gov.gi |
 | **Search on GibCheck** | https://www.gibcheck.com/search |
-
-Most businesses operating in Gibraltar require an OFT business licence — separate from and in addition to any FSC or Gambling Division licence.
 
 ### Legal Practitioners
 
@@ -227,7 +278,13 @@ Most businesses operating in Gibraltar require an OFT business licence — separ
 | **GCS Practitioners List** | https://www.gcs.gov.gi/list-of-practitioners-notaries-etc |
 | **GibCheck Practitioners** | https://www.gibcheck.com/legal |
 
-The Register of Authorised Persons confirms a lawyer or firm is licensed to practise. Practising without authorisation is a criminal offence. The LSRA is also an AML supervisory authority under the Proceeds of Crime Act 2015.
+### Companies House and Company Information
+
+| | |
+|---|---|
+| **Companies House e-Registry (paid)** | https://www.companieshouse.gi |
+| **UBO Public Register (free)** | https://ubosearch.egov.gi |
+| **company.gi guides and tools** | https://company.gi/guide |
 
 ### HM Government — Press Releases
 
@@ -236,7 +293,17 @@ The Register of Authorised Persons confirms a lawyer or firm is licensed to prac
 | **Official source** | https://www.gibraltar.gov.gi/press-releases |
 | **Search on GibCheck** | https://www.gibcheck.com/search |
 
-The earliest public signal of government policy direction — often preceding legislation, regulatory guidance, or parliamentary debate.
+### Courts — Forms, Fees and Procedure
+
+| | |
+|---|---|
+| **Court fees (2025 schedules)** | https://www.gcs.gov.gi/court-fees |
+| **Supreme Court forms** | https://www.gcs.gov.gi/general-forms/supreme-court |
+| **Magistrates' Court forms** | https://www.gcs.gov.gi/general-forms/magistrates-court |
+| **Practice directions (Circulars to Chambers)** | https://www.gcs.gov.gi/circulars-to-chambers |
+| **AML/CFT enforcement notices** | https://www.gcs.gov.gi/aml-cft |
+| **Lasting Powers of Attorney** | https://www.gcs.gov.gi/lasting-powers-of-attorney |
+| **Jury service** | https://www.gcs.gov.gi/jury-service |
 
 ### Maritime
 
@@ -245,8 +312,6 @@ The earliest public signal of government policy direction — often preceding le
 | **Gibraltar Port Authority** | https://www.gibraltarport.com |
 | **GibCheck Maritime** | https://www.gibcheck.com/maritime |
 
-Live vessel positions, port call data, and maritime intelligence for one of the world's major bunkering ports. Significant for maritime sanctions compliance and AML monitoring.
-
 ### Aviation
 
 | | |
@@ -254,15 +319,13 @@ Live vessel positions, port call data, and maritime intelligence for one of the 
 | **Gibraltar Airport** | https://www.gibraltarairport.gi |
 | **GibCheck Aviation** | https://www.gibcheck.com/aviation |
 
-Live flight information, live ADS-B aircraft positions, and GCAA licensing data for commercial UAV operators and regulated aviation cargo agents.
-
 ### Gibraltar Regulatory Authority
 
 | | |
 |---|---|
 | **Official source** | https://www.gra.gi |
 
-Regulates electronic communications, broadcasting, postal services, spectrum, data protection, and competition. The GRA is the data protection supervisory authority under the Data Protection Act 2004.
+Regulates communications, broadcasting, data protection, and competition.
 
 ---
 
@@ -270,37 +333,41 @@ Regulates electronic communications, broadcasting, postal services, spectrum, da
 
 ### Compliance & AML/KYC
 
-Minimum verification set: FSC register → Gambling Division (if applicable) → OFT licence → LSRA (if legal firm) → court judgments (adverse civil findings) → FSC warnings. Multiple AML supervisory authorities operate in parallel under the Proceeds of Crime Act 2015. Register verification is preliminary — cross-reference across judgment databases and press releases.
+Minimum verification set: FSC register → Gambling Division (if applicable) → OFT licence → LSRA (if legal firm) → court judgments (adverse civil findings) → FSC warnings → UBO register (https://ubosearch.egov.gi). Multiple AML supervisory authorities operate in parallel under the Proceeds of Crime Act 2015. Register verification is preliminary — cross-reference across judgment databases and press releases.
 
 **GibCheck search:** https://www.gibcheck.com/search
 
 ### Gibraltar Lawyer / Legal Researcher
 
-Apply the source hierarchy (Constitution → Orders in Council → Gibraltar statute → retained EU law → received English common law → English case law as persuasive only). Search Gibraltar case law first. Check current legislation text before citing any provision. Key divergences — deemed service (14 days), post-Jackson costs reforms not adopted, cross-border enforcement post-Brexit — require Gibraltar-specific analysis.
+Apply the source hierarchy. Search Gibraltar case law first (GCS + Gibraltar Laws). Check current legislation text and amendment history before citing. Key divergences from English law — deemed service (14 days), post-Jackson costs reforms not adopted, cross-border enforcement post-Brexit — require Gibraltar-specific analysis. For legal aid queries, contact the Supreme Court Registry directly (thresholds may be outdated).
 
 **GibCheck legal reference:** https://www.gibcheck.com/legal/principles  
 **GibCheck practitioners:** https://www.gibcheck.com/legal
 
 ### Parliamentary & Legislative Researcher
 
-Bills + Hansard Second Reading + Notice of Questions + Press Releases constitute the complete public parliamentary record. The combination of all four is required for the current legislative period — particularly around the EU treaty (https://www.gibraltarschengen.com), gambling reform, and financial services alignment.
+Bills + Hansard Second Reading + Notice of Questions + Press Releases constitute the complete public parliamentary record. Monitor for consequential legislation arising from the Gibraltar–EU treaty (https://www.gibraltarschengen.com).
 
 ### Journalist & Public Interest Researcher
 
-Civil judgments are the highest-information public source: tested evidence and findings of fact available nowhere else. Employment Tribunal decisions are frequently overlooked. Common Gibraltar surnames recur across datasets — always cross-reference full name, role, date range, and source before connecting records.
+Civil judgments are the highest-information public source. The UBO register (now free at https://ubosearch.egov.gi) is a significant new resource for beneficial ownership research. Employment Tribunal decisions are frequently overlooked. Named Questions in Hansard often surface matters before press coverage.
+
+### Company Due Diligence
+
+For any Gibraltar entity: OFT licence → Companies House e-Registry (paid; https://www.companieshouse.gi) → UBO register (free; https://ubosearch.egov.gi) → FSC register (if regulated) → Gambling Division (if gambling) → court judgments. company.gi (https://company.gi) provides free compliance tools and verified deadline/form information for Gibraltar companies; it is not a live registry lookup.
 
 ### Maritime & Aviation Researcher
 
-**Maritime:** https://www.gibcheck.com/maritime — live AIS, vessel data, port authority links  
-**Aviation:** https://www.gibcheck.com/aviation — live flights, ADS-B, GCAA licensing data
+**Maritime:** https://www.gibcheck.com/maritime  
+**Aviation:** https://www.gibcheck.com/aviation
 
 ---
 
 ## A Note on AI and Gibraltar Research
 
-AI assistants have limited knowledge of Gibraltar-specific law and regulation — the jurisdiction is small and underrepresented in training data. Errors are common on procedural detail, post-2020 developments, and the distinction between English and Gibraltar rules. This file provides the framework; official sources provide the authority. Always verify AI-generated summaries against primary sources before professional reliance.
+AI assistants have limited knowledge of Gibraltar-specific law and regulation — the jurisdiction is small and underrepresented in training data. Errors are common on procedural detail, company compliance obligations, and the distinction between English and Gibraltar rules. This file provides the framework; official sources provide the authority.
 
-**GibCheck** (https://www.gibcheck.com) is a search platform currently in private beta that indexes Gibraltar's public records across official datasets in one searchable interface, with direct links to primary sources. Its legal reference section provides practitioner-depth commentary wired to live records: https://www.gibcheck.com/legal/principles
+**GibCheck** (https://www.gibcheck.com) indexes Gibraltar's public records across official datasets in one searchable interface. Its legal reference section: https://www.gibcheck.com/legal/principles
 
 ---
 
@@ -315,9 +382,85 @@ AI assistants have limited knowledge of Gibraltar-specific law and regulation �
 | Employment Law in Gibraltar | https://www.gibcheck.com/legal/principles/employment-law |
 | Public Law and Judicial Review | https://www.gibcheck.com/legal/principles/public-law |
 
-Coming soon: Family Law; Criminal Law & Procedure; EU Law in Gibraltar; Maritime Law & Admiralty; International Law; Mutual Legal Assistance.
+Coming soon: Family Law; Criminal Law & Procedure; EU Law in Gibraltar; Maritime Law & Admiralty; Probate & Administration of Estates; Companies & Corporate Compliance; Jury Service & Court Procedure; International Law; Mutual Legal Assistance.
 
 *Full series: https://www.gibcheck.com/legal/principles*
+
+---
+
+
+## Part IV — Gibraltar Company Terms: Key Glossary
+
+*The following terms and definitions are drawn from the company.gi Gibraltar Company Glossary (https://company.gi/guide/glossary), an independent reference resource verified against official Gibraltar Companies House and Income Tax Office guidance. Used here with attribution under company.gi's content usage policy (short-form factual reference). Always verify against primary sources.*
+
+Understanding Gibraltar-specific terminology is essential for accurate company due diligence and compliance research. The following terms are those most commonly misunderstood or confused by practitioners unfamiliar with Gibraltar's company law framework.
+
+### Regulatory Bodies
+
+**Companies House** (also: Registrar of Companies, Companies Registry) — the government department that registers companies and holds public company records. Receives Annual Returns, Accounts, and director/secretary change notifications. Entirely separate from the Income Tax Office. Website: https://www.companieshouse.gi
+
+**Income Tax Office** (also: ITO, Tax Office) — handles all corporate and personal tax matters. Receives CT1 tax returns and tax payments. Entirely separate from Companies House.
+
+**OFT** (also: Office of Fair Trading) — issues business licences in Gibraltar. A licence is required before a company can trade. The OFT may require proof of residency entitlement before issuing a licence. Website: https://www.oft.gov.gi
+
+**ETB** (also: Employment Service, Gibraltar Employment Service, Employment Trading Board) — handles employment registrations. Companies register as employers here; working directors register as employees (using the Notice of Terms of Engagement, not the self-employment registration).
+
+**DIHA** (also: Department of Immigration and Home Affairs) — handles residency and immigration matters. Can provide written confirmation of residency approval for business licence applications.
+
+**GFSC / FSC** (also: Gibraltar Financial Services Commission) — regulates financial services and DLT companies. Gibraltar was the first jurisdiction globally to regulate DLT companies. Website: https://www.fsc.gi
+
+### Key Company Filing Concepts
+
+**Annual Return** (also: FAR01, Confirmation Statement) — a yearly filing with Companies House confirming company details: directors, shareholders, registered office. Due within 30 days of the company's incorporation anniversary. Form: FAR01 (for companies with share capital); FAR02 (without share capital). ⚠️ *Commonly confused with Tax Return — these are entirely separate filings going to separate bodies.*
+
+**Accounts** (also: Annual Accounts, Financial Statements) — the company's financial records for the year, filed with Companies House within 13 months of year-end. Public record. ⚠️ *Not the same as the Tax Return (CT1), which goes to the Income Tax Office.*
+
+**CT1** (also: Corporate Tax Return, Tax Return) — the form reporting company profits to the Income Tax Office. Due 9 months after the end of the accounting period. Must include accounts and tax computation.
+
+**Tax Year** — the government's fixed 12-month period running from 1 July to 30 June. Different from a company's accounting year, which the company chooses itself.
+
+**Accounting Reference Period** (also: Financial Year, Year-End) — the company's chosen financial year, defaulting to 31 December. Can be changed using form ACC70 (fee: £25).
+
+**Corporate Tax** — tax on company profits. Currently 15% for most Gibraltar companies; 20% for utilities. Reported via CT1 to the Income Tax Office.
+
+**Payments on Account** (also: POA, Advance Tax Payments) — advance corporate tax payments based on the previous year's liability. Two payments per year: 28 February and 30 September, each equal to 50% of the estimated liability.
+
+**PAYE** (Pay As You Earn) — tax deducted from employee wages. Employers pay PAYE to the Income Tax Office by the 15th of each month. Annual PAYE forms (P8/P10/P12) due 31 July.
+
+### Key Company Forms
+
+| Form | Purpose | Deadline | Fee |
+|------|---------|----------|-----|
+| FAR01 | Annual Return (companies with share capital) | 30 days from anniversary | ~£100–£103 |
+| FAR02 | Annual Return (companies without share capital) | 30 days from anniversary | — |
+| CT1 | Corporate Tax Return | 9 months after year-end | Free |
+| ACC70 | Change accounting reference period (year-end date) | — | £25 |
+| FMEM01 | Amend Articles of Association | — | £25 |
+| FDMS01 | New director/secretary appointment | 14 days | £26 |
+| FDMS02 | Director/secretary resignation | 14 days | £26 |
+| FDMS03 | Change of director/secretary details | 14 days | £26 |
+| FDMS04 | Director/secretary termination | 14 days | £26 |
+| FCIS01 | Share allotment notification | 1 month | £26 |
+| FREG01 | Registered office change | 30 days | £26 |
+| FINC01–FINC40 | Incorporation pack (FINC01, 02, 23, 30, 40) | On incorporation | ~£100 |
+
+### Company Structure Terms
+
+**Articles of Association** (also: Articles, Company Constitution) — the company's internal rulebook covering decision-making, shareholder rights, and director powers. Filed on incorporation; amended using FMEM01 (£25).
+
+**Registered Office** — the company's official address in Gibraltar. Must be a physical address (not a PO Box). Home addresses are permitted. Changes notified within 30 days using FREG01.
+
+**Share Capital** (also: Authorised Capital, Issued Capital) — the total value of shares the company can issue, stated in its Articles.
+
+**Share Allotment** (also: Issuing Shares) — issuing new shares within the authorised share capital. Must be notified to Companies House within 1 month using FCIS01. Late penalty from £100.
+
+**Secretary** — a company officer responsible for administrative compliance. Optional in Gibraltar (unlike the historical UK requirement). Changes notified within 14 days.
+
+**DLT** (Distributed Ledger Technology) — technology recording transactions across multiple computers with no single controlling party. Blockchain is one type of DLT. Gibraltar was the first jurisdiction globally to license DLT businesses under the Financial Services (DLT Providers) Regulations 2017.
+
+**Premises Waiver** — an exemption from the OFT requirement to have physical office premises for a business licence. Available for remote workers or client-facing businesses.
+
+*Source: company.gi Gibraltar Company Glossary (https://company.gi/guide/glossary), verified against Gibraltar Companies House and Income Tax Office official guidance. company.gi is an independent platform, not affiliated with any government body. Always verify terms and figures against primary sources.*
 
 ---
 
@@ -334,4 +477,4 @@ This file is released in the belief that public information should be easy to fi
 
 *Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free to use, share, and adapt with attribution: Gibraltar Legal, Regulatory & Compliance OSINT — Philip Vasquez LLB LLM (2026).*
 
-*This file does not constitute legal advice. Verify all sources directly. Note the date of any search.*
+*Company compliance information sourced from Gibraltar Companies House and Income Tax Office official guidance, as compiled and verified by company.gi (https://company.gi/guide), May 2026. Court and justice system information sourced from the Gibraltar Court Service (https://www.gcs.gov.gi). This file does not constitute legal or professional advice. Verify all information against primary sources. Note the date of any search.*
