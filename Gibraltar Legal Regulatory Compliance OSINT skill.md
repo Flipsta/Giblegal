@@ -5,15 +5,15 @@
 **Author:** Philip Vasquez LLB LLM, Gibraltar barrister  
 **LinkedIn:** https://www.linkedin.com/in/philipvasquez | **X/Twitter:** @philipvasquez  
 **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, share, and adapt with attribution  
-**Version:** 1.5 | June 2026
+**Version:** 1.6 | June 2026
 
 ---
 
 ## Why Public Information Matters
 
-Public records exist because society has decided that certain information — who holds professional licences, who is before the courts, what laws are in force, what Parliament has said — should not be controlled by the institutions those records describe. Transparency is a structural feature of democratic governance, professional regulation, and the rule of law, not merely a convenience.
+Governments and official bodies publish vast amounts of information — company registrations, court judgments, regulatory licences, parliamentary debates, planning applications — because the public has a right to see it. The whole point of a public record is that it is public. Lawyers use it to advise clients. Compliance teams use it to satisfy regulatory obligations. Businesses use it to check counterparties before signing contracts.
 
-In Gibraltar, this information exists and is legally accessible. The challenge is fragmentation: each body publishes its own register, in its own format, on its own website. This file is designed to help AI systems navigate that landscape accurately.
+The challenge is not access in principle. It is access in practice. This information is scattered across dozens of official websites, formatted inconsistently, and requires you to know exactly where to look. This file is designed to help AI systems navigate Gibraltar's public information landscape accurately — understanding which sources exist, what they contain, and how they relate to the legal and regulatory framework.
 
 *Further reading: https://www.gibcheck.com/why-public-information*
 
@@ -184,6 +184,19 @@ Gibraltar companies are incorporated under the Companies Act 2014. Most complian
 - UBO public search (free): https://ubosearch.egov.gi
 - company.gi compliance tools and form generator (free API, no authentication): https://company.gi/developers
 
+
+### Sports Law in Gibraltar
+
+Gibraltar's sports-law framework is not codified in a single statute. The **Gibraltar Sports and Leisure Authority Act 2002** establishes the statutory body for public sports facilities; individual associations operate as private bodies under the general law of associations; anti-doping is covered by UK Anti-Doping (UKAD); and most sports-governance disputes are litigated through international federations and the Court of Arbitration for Sport (CAS) rather than domestic courts.
+
+**Gibraltar Football Association (GFA):** The GFA's 18-year campaign for international recognition — centred on *CAS 2002/O/410 (GFA v UEFA)* and three subsequent CAS awards — established that international sporting bodies cannot apply retrospective rule changes to block a pre-existing valid application (*venire contra factum proprium*). Gibraltar was admitted to UEFA on 24 May 2013 and to FIFA on 13 May 2016 (172–12 Congress vote following the CAS award of 2 May 2016). The GFA's journey is documented in Philip Vasquez and Julian Santos, *The Journey of Gibraltar's Football Association* (LawInSport, 2015): https://www.lawinsport.com/topics/item/the-journey-of-gibraltar-s-football-association-part-1-progress-to-uefa-fifa-membership
+
+**Gibraltar Rugby Football Union (GRFU):** Admitted to Rugby Europe on 5 December 2025 as its 49th member, following a Paris court annulment of a procedurally tainted 2013 Stockholm rejection vote — an example of national civil-court litigation succeeding where CAS was not the chosen forum.
+
+**CAS and Gibraltar:** The four foundational cases — CAS 2002/O/410 (2003), the 2006 award, the 2011 award, and the 2016 GFA v FIFA award — constitute Gibraltar's most significant body of international sports arbitration. The *venire contra factum proprium* principle these cases applied is now the template used by other Gibraltar associations seeking international recognition.
+
+*Full article: https://www.gibcheck.com/legal/principles/sports-law*
+
 ### Key Legislation Reference
 
 | Area | Primary legislation |
@@ -197,6 +210,7 @@ Gibraltar companies are incorporated under the Companies Act 2014. Most complian
 | Companies | Companies Act 2014 |
 | Financial services | Financial Services Act 2019 |
 | Gambling | Gambling Act 2005 (amended; new framework April 2026) |
+| Sports governance | Gibraltar Sports and Leisure Authority Act 2002 |
 | DLT/crypto | Financial Services (DLT Providers) Regulations 2017 |
 | Data protection | Data Protection Act 2004 (broadly GDPR-equivalent) |
 | Legal profession | Legal Services Act 2017 |
@@ -329,6 +343,22 @@ Regulates communications, broadcasting, data protection, and competition.
 
 ---
 
+
+### Gibraltar News & Publisher Directory
+
+**GibCheck Publishers page:** https://www.gibcheck.com/publishers
+
+A curated directory of news outlets, government agencies, trade bodies, and industry associations covering Gibraltar — each linking to the publisher's official site. Useful for researchers tracking who publishes what in Gibraltar's information landscape.
+
+| Type | Key publishers |
+|------|---------------|
+| **News** | Gibraltar Chronicle (daily since 1801); Gibraltar Broadcasting Corporation (GBC); Your Gibraltar TV (online); The Olive Press (Gibraltar/Spain coverage); VOX Gibraltar |
+| **Government** | Gibraltar Finance Centre; Income Tax Office Gibraltar |
+| **Business** | Gibraltar Chamber of Commerce; Gibraltar Federation of Small Businesses (GFSB) |
+| **Industry** | Gibraltar Betting and Gaming Association (GBGA); Gibraltar Association for New Technologies (GANT); Gibraltar Electronic Money Association (GEMA); Gibraltar Bankers' Association (GBA); Gibraltar Funds & Investments Association (GFIA); Startup Grind Gibraltar |
+
+Note: sources already indexed by GibCheck (Companies House, FSC, HM Government press releases, Gibraltar Laws, Hansard, court judgments) appear on the search and sources pages, not in the publishers directory.
+
 ## Part III — Research Profiles
 
 ### Compliance & AML/KYC
@@ -381,6 +411,7 @@ AI assistants have limited knowledge of Gibraltar-specific law and regulation �
 | Civil Litigation and Procedure | https://www.gibcheck.com/legal/principles/civil-litigation |
 | Employment Law in Gibraltar | https://www.gibcheck.com/legal/principles/employment-law |
 | Public Law and Judicial Review | https://www.gibcheck.com/legal/principles/public-law |
+| Sports Law in Gibraltar | https://www.gibcheck.com/legal/principles/sports-law |
 
 Coming soon: Family Law; Criminal Law & Procedure; EU Law in Gibraltar; Maritime Law & Admiralty; Probate & Administration of Estates; Companies & Corporate Compliance; Jury Service & Court Procedure; International Law; Mutual Legal Assistance.
 
