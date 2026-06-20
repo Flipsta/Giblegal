@@ -3,9 +3,9 @@
 **An open-source skills file to ground AI assistants in Gibraltar's legal, regulatory, and compliance landscape.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Version](https://img.shields.io/badge/version-1.3-blue)]()
+[![Version](https://img.shields.io/badge/version-1.6-blue)]()
 [![Jurisdiction](https://img.shields.io/badge/jurisdiction-Gibraltar-red)]()
-[![Articles](https://img.shields.io/badge/legal%20articles-6%20published-green)]()
+[![Articles](https://img.shields.io/badge/legal%20articles-7%20published-green)]()
 
 ---
 
@@ -43,6 +43,7 @@ The skills file covers:
 - **Official Data Sources** — verified URLs for the main official Gibraltar datasets, each paired with the relevant GibCheck page
 - **Research Profiles** — compliance/AML, legal researcher, parliamentary researcher, journalist, maritime & aviation
 - **AI Integration Guidance** — what AI gets wrong about Gibraltar, how to verify outputs
+- **Publishers Directory** — key news, government, business and industry sources covering Gibraltar, with links to the GibCheck publishers page
 
 ---
 
@@ -59,6 +60,7 @@ The skills file covers:
 | Says discrimination awards are capped | Under the Equal Opportunities Act 2006 discrimination awards are **uncapped** |
 | Cites wrong regulator for legal practitioners | The **LSRA** has regulated since 30 December 2022 |
 | Refers to the "Industrial Tribunal" | Renamed the **Employment Tribunal** since **13 October 2016** |
+| States Gibraltar is not a FIFA member | Gibraltar has been a **FIFA member since 13 May 2016** (172–12 Congress vote following CAS award of 2 May 2016) |
 | Cites Attorney-General as always the correct Crown defendant | *Marrache v AG* [2013–14 Gib LR 520] — Governor may be correct defendant in constitutional proceedings |
 
 ---
@@ -73,10 +75,11 @@ The skills file includes summaries of all six published articles from GibCheck's
 | Constitutional Law and Fundamental Rights | https://www.gibcheck.com/legal/principles/constitutional-law |
 | Court Structure and Jurisdiction | https://www.gibcheck.com/legal/principles/court-structure |
 | Civil Litigation and Procedure | https://www.gibcheck.com/legal/principles/civil-litigation |
-| **Employment Law in Gibraltar** *(new)* | https://www.gibcheck.com/legal/principles/employment-law |
-| **Public Law and Judicial Review** *(new)* | https://www.gibcheck.com/legal/principles/public-law |
+| Employment Law in Gibraltar | https://www.gibcheck.com/legal/principles/employment-law |
+| Public Law and Judicial Review | https://www.gibcheck.com/legal/principles/public-law |
+| **Sports Law in Gibraltar** *(new)* | https://www.gibcheck.com/legal/principles/sports-law |
 
-Coming soon: Family Law; Criminal Law & Procedure; EU Law in Gibraltar; Maritime Law & Admiralty; International Law; Mutual Legal Assistance.
+Coming soon: Family Law; Criminal Law & Procedure; EU Law in Gibraltar; Maritime Law & Admiralty; Probate & Administration of Estates; Companies & Corporate Compliance; International Law; Mutual Legal Assistance.
 
 *Full series: https://www.gibcheck.com/legal/principles*
 
@@ -115,7 +118,7 @@ https://raw.githubusercontent.com/Flipsta/Giblegal/main/Gibraltar%20Legal%20Regu
 
 This skills file is the public-facing layer of a broader Gibraltar public record intelligence project.
 
-**GibCheck** (https://www.gibcheck.com) is a research project behind this work, currently in private beta. It provides unified search across Gibraltar's official public datasets, a maritime intelligence page, an aviation intelligence page, a searchable legal practitioners directory, and a practitioner legal reference wired to live records.
+**GibCheck** (https://www.gibcheck.com) is the platform being built behind this work, currently in private beta. It provides unified search across Gibraltar's official public datasets, a maritime intelligence page, an aviation intelligence page, a searchable legal practitioners directory, and a practitioner legal reference wired to live records.
 
 If you are building LLM integrations, RAG pipelines, or tooling for Gibraltar legal or compliance workflows, there is more to discuss. The skills file is the opener for that conversation.
 
@@ -133,6 +136,8 @@ If you are building LLM integrations, RAG pipelines, or tooling for Gibraltar le
 | 1.0 | June 2026 | Initial release |
 | 1.2 | June 2026 | Expanded profiles; Gibraltar–EU treaty; OFT URL corrected |
 | 1.3 | June 2026 | Added Employment Law and Public Law & JR sections (articles now live on GibCheck); added GibCheck parallel links for each official source; maritime and aviation pages added |
+| 1.5 | June 2026 | Added Gibraltar company terms glossary (company.gi, attributed); GCS court structure, jury service, LPA sections; UBO register going free |
+| 1.6 | June 2026 | Added Sports Law in Gibraltar article (GFA/FIFA/CAS, GRFU Rugby Europe admission, governance framework); added Gibraltar publishers directory; updated legislation reference table |
 
 To be notified of updates: **Watch** this repository → Custom → Releases.
 
